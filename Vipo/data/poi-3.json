@@ -1,0 +1,20 @@
+{
+	"id": 3,
+	"data": [
+		{
+			"label": "Inštruktážne videá",
+			"items": [
+        {
+          "type": "video",
+          "label": "Návod XYZ",
+          "videoFile": "http://localhost/Vipo/video/RubberizingdiechangeOptim.m4v"
+        },
+        {
+          "type": "video",
+          "label": "Návod ABC",
+          "videoFile": "http://localhost/Vipo/video/RubberizingdiechangeOptim.m4v"
+        }
+			]
+		}
+	]
+}

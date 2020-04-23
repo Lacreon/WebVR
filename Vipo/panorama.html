@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Panoráma</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="assets/css/mpano.min.css">
+</head>
+<body>
+	<div id="mpano">
+		<div id="pano"></div>
+		<div id="infopanel"></div>
+		<div id="strip"><div id="objlabel"> ... </div></div>
+		<div id="map"><div id="map-paper"></div></div>
+		<div id="compass-holder"><div id="compass-container"><canvas id="compass" width="150" height="150"></canvas></div></div>
+	</div>
+
+	<script src="assets/js/utils.js"></script>
+	<script src="assets/js/mpano/marzipano.min.js"></script>
+	<script src="assets/js/mpano/pano.js"></script>
+	<script src="assets/js/mpano/smmmodif.js"></script>
+
+	<script>
+		(function(){
+
+			if (typeof MPano === "undefined"){
+				alert("MPano is not defined!");
+				return;
+			}
+			
+			var startPano = function(config){
+				MPano.init({lng: config.lng, iconsFile: config.iconsFile, root: config.panoPathRoot});
+
+				if (typeof SMMPano === "undefined")
+					alert("SMMPano is not defined!");
+				else
+					SMMPano.init(config.infoUrl);
+			}
+			
+			var startApp = function(cfgFile){
+				getJson(cfgFile, {}, function(config){
+					getJson(config.panoDataUrl, {}, function(data){
+						window.APP_DATA = data;
+						startPano(config);
+					},
+					function(){
+						alert('Cannot download pano data');
+					});
+				}, function(){
+					alert('Cannot download json config');
+				});
+			}
+
+			var url = findGetParameter('config');
+			if (url){
+				startApp(url);
+			}
+			else{
+				alert('Please enter config file url');
+			}
+		})();
+	</script>
+</body>
+</html>

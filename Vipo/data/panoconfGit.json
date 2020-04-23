@@ -1,0 +1,7 @@
+{
+  "panoPathRoot": "https://lacreon.github.io/WebVR/Vipo/panorama/",
+  "iconsFile": "https://lacreon.github.io/WebVR/ceit/assets/img/mpano/pano-icons.svg",
+  "infoUrl": "https://lacreon.github.io/WebVR/Vipo/poi-info.php",
+  "panoDataUrl": "https://lacreon.github.io/WebVR/Vipo/data/mpanodataTatry.json",
+  "lng": "sk"
+}

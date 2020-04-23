@@ -1,0 +1,1271 @@
+{
+	"scenes": [
+		{
+			"id": "0-r0010085",
+			"label": "",
+			"folder": "data/0-r0010085/",
+			"levels": [
+				{
+					"tileSize": 256,
+					"size": 256,
+					"fallbackOnly": true
+				},
+				{
+					"tileSize": 512,
+					"size": 512
+				},
+				{
+					"tileSize": 512,
+					"size": 1024
+				},
+				{
+					"tileSize": 512,
+					"size": 2048
+				}
+			],
+			"faceSize": 3000,
+			"initialViewParameters": {
+				"yaw": 0,
+				"pitch": 0,
+				"fov": 1.4
+			},
+			"linkHotspots": [],
+			"videoOverlay": null,
+			"infoHotspots": [],
+			"neighborhood": [
+				{
+					"yaw": -1.5027488461570933,
+					"target": "1-r0010086"
+				}
+			]
+		},
+		{
+			"id": "1-r0010086",
+			"label": "",
+			"folder": "data/1-r0010086/",
+			"levels": [
+				{
+					"tileSize": 256,
+					"size": 256,
+					"fallbackOnly": true
+				},
+				{
+					"tileSize": 512,
+					"size": 512
+				},
+				{
+					"tileSize": 512,
+					"size": 1024
+				},
+				{
+					"tileSize": 512,
+					"size": 2048
+				}
+			],
+			"faceSize": 3000,
+			"initialViewParameters": {
+				"yaw": 0,
+				"pitch": 0,
+				"fov": 1.4
+			},
+			"linkHotspots": [],
+			"videoOverlay": null,
+			"infoHotspots": [],
+			"neighborhood": [
+				{
+					"yaw": -1.4777809645870619,
+					"target": "2-r0010087"
+				},
+				{
+					"yaw": 1.6139762285221595,
+					"target": "0-r0010085"
+				}
+			]
+		},
+		{
+			"id": "2-r0010087",
+			"label": "",
+			"folder": "data/2-r0010087/",
+			"levels": [
+				{
+					"tileSize": 256,
+					"size": 256,
+					"fallbackOnly": true
+				},
+				{
+					"tileSize": 512,
+					"size": 512
+				},
+				{
+					"tileSize": 512,
+					"size": 1024
+				},
+				{
+					"tileSize": 512,
+					"size": 2048
+				}
+			],
+			"faceSize": 3000,
+			"initialViewParameters": {
+				"yaw": 0,
+				"pitch": 0,
+				"fov": 1.4
+			},
+			"linkHotspots": [],
+			"videoOverlay": null,
+			"infoHotspots": [],
+			"neighborhood": [
+				{
+					"yaw": -1.4822536940469497,
+					"target": "3-r0010088"
+				},
+				{
+					"yaw": 1.5687393583864981,
+					"target": "1-r0010086"
+				}
+			]
+		},
+		{
+			"id": "3-r0010088",
+			"label": "",
+			"folder": "data/3-r0010088/",
+			"levels": [
+				{
+					"tileSize": 256,
+					"size": 256,
+					"fallbackOnly": true
+				},
+				{
+					"tileSize": 512,
+					"size": 512
+				},
+				{
+					"tileSize": 512,
+					"size": 1024
+				},
+				{
+					"tileSize": 512,
+					"size": 2048
+				}
+			],
+			"faceSize": 3000,
+			"initialViewParameters": {
+				"yaw": 0,
+				"pitch": 0,
+				"fov": 1.4
+			},
+			"linkHotspots": [],
+			"videoOverlay": null,
+			"infoHotspots": [],
+			"neighborhood": [
+				{
+					"yaw": -1.4924111759123768,
+					"target": "4-r0010089"
+				},
+				{
+					"yaw": 1.6732538087202435,
+					"target": "2-r0010087"
+				},
+				{
+					"yaw": -2.354687921674552,
+					"target": "13-r0010098"
+				}
+			]
+		},
+		{
+			"id": "4-r0010089",
+			"label": "",
+			"folder": "data/4-r0010089/",
+			"levels": [
+				{
+					"tileSize": 256,
+					"size": 256,
+					"fallbackOnly": true
+				},
+				{
+					"tileSize": 512,
+					"size": 512
+				},
+				{
+					"tileSize": 512,
+					"size": 1024
+				},
+				{
+					"tileSize": 512,
+					"size": 2048
+				}
+			],
+			"faceSize": 3000,
+			"initialViewParameters": {
+				"yaw": 0,
+				"pitch": 0,
+				"fov": 1.4
+			},
+			"linkHotspots": [],
+			"videoOverlay": null,
+			"infoHotspots": [],
+			"neighborhood": [
+				{
+					"yaw": -1.529326467183889,
+					"target": "5-r0010090"
+				},
+				{
+					"yaw": 1.6596134254227781,
+					"target": "3-r0010088"
+				},
+				{
+					"yaw": -2.5074786885833564,
+					"target": "13-r0010098"
+				}
+			]
+		},
+		{
+			"id": "5-r0010090",
+			"label": "",
+			"folder": "data/5-r0010090/",
+			"levels": [
+				{
+					"tileSize": 256,
+					"size": 256,
+					"fallbackOnly": true
+				},
+				{
+					"tileSize": 512,
+					"size": 512
+				},
+				{
+					"tileSize": 512,
+					"size": 1024
+				},
+				{
+					"tileSize": 512,
+					"size": 2048
+				}
+			],
+			"faceSize": 3000,
+			"initialViewParameters": {
+				"yaw": 0,
+				"pitch": 0,
+				"fov": 1.4
+			},
+			"linkHotspots": [],
+			"videoOverlay": null,
+			"infoHotspots": [],
+			"neighborhood": [
+				{
+					"yaw": -0.9279640155948172,
+					"target": "6-r0010091"
+				},
+				{
+					"yaw": 1.6265001171908136,
+					"target": "4-r0010089"
+				},
+				{
+					"yaw": -1.5585744888294997,
+					"target": "6-r0010091"
+				},
+				{
+					"yaw": -2.7688165309115416,
+					"target": "13-r0010098"
+				}
+			]
+		},
+		{
+			"id": "6-r0010091",
+			"label": "",
+			"folder": "data/6-r0010091/",
+			"levels": [
+				{
+					"tileSize": 256,
+					"size": 256,
+					"fallbackOnly": true
+				},
+				{
+					"tileSize": 512,
+					"size": 512
+				},
+				{
+					"tileSize": 512,
+					"size": 1024
+				},
+				{
+					"tileSize": 512,
+					"size": 2048
+				}
+			],
+			"faceSize": 3000,
+			"initialViewParameters": {
+				"yaw": 0,
+				"pitch": 0,
+				"fov": 1.4
+			},
+			"linkHotspots": [],
+			"videoOverlay": null,
+			"infoHotspots": [],
+			"neighborhood": [
+				{
+					"yaw": -1.3992159662977492,
+					"target": "7-r0010092"
+				},
+				{
+					"yaw": 0.006570484848763769,
+					"target": "25-r0010110"
+				},
+				{
+					"yaw": 2.2657797515437403,
+					"target": "5-r0010090"
+				},
+				{
+					"yaw": 1.6180549265553044,
+					"target": "5-r0010090"
+				},
+				{
+					"yaw": -3.0411719968038256,
+					"target": "13-r0010098"
+				}
+			]
+		},
+		{
+			"id": "7-r0010092",
+			"label": "",
+			"folder": "data/7-r0010092/",
+			"levels": [
+				{
+					"tileSize": 256,
+					"size": 256,
+					"fallbackOnly": true
+				},
+				{
+					"tileSize": 512,
+					"size": 512
+				},
+				{
+					"tileSize": 512,
+					"size": 1024
+				},
+				{
+					"tileSize": 512,
+					"size": 2048
+				}
+			],
+			"faceSize": 3000,
+			"initialViewParameters": {
+				"yaw": 0,
+				"pitch": 0,
+				"fov": 1.4
+			},
+			"linkHotspots": [],
+			"videoOverlay": null,
+			"infoHotspots": [
+				null,
+				{
+					"title": {
+						"sk": "Extruder",
+						"en": "Extruder"
+					},
+					"text": {
+						"sk": "",
+						"en": ""
+					},
+					"icon": "fa-info",
+					"yaw": -0.4804860175704633,
+					"pitch": 0.09887942338318467,
+					"internalId": 3,
+					"map": {
+						"left": "59.53%",
+						"top": "36.02%"
+					}
+				}
+			],
+			"neighborhood": [
+				{
+					"yaw": -1.4876141439406734,
+					"target": "8-r0010093"
+				},
+				{
+					"yaw": 1.5800562045840598,
+					"target": "6-r0010091"
+				}
+			]
+		},
+		{
+			"id": "8-r0010093",
+			"label": "",
+			"folder": "data/8-r0010093/",
+			"levels": [
+				{
+					"tileSize": 256,
+					"size": 256,
+					"fallbackOnly": true
+				},
+				{
+					"tileSize": 512,
+					"size": 512
+				},
+				{
+					"tileSize": 512,
+					"size": 1024
+				},
+				{
+					"tileSize": 512,
+					"size": 2048
+				}
+			],
+			"faceSize": 3000,
+			"initialViewParameters": {
+				"yaw": 0,
+				"pitch": 0,
+				"fov": 1.4
+			},
+			"linkHotspots": [],
+			"videoOverlay": null,
+			"infoHotspots": [],
+			"neighborhood": [
+				{
+					"yaw": -1.4293525783960952,
+					"target": "9-r0010094"
+				},
+				{
+					"yaw": 1.5238242168002731,
+					"target": "7-r0010092"
+				}
+			]
+		},
+		{
+			"id": "9-r0010094",
+			"label": "",
+			"folder": "data/9-r0010094/",
+			"levels": [
+				{
+					"tileSize": 256,
+					"size": 256,
+					"fallbackOnly": true
+				},
+				{
+					"tileSize": 512,
+					"size": 512
+				},
+				{
+					"tileSize": 512,
+					"size": 1024
+				},
+				{
+					"tileSize": 512,
+					"size": 2048
+				}
+			],
+			"faceSize": 3000,
+			"initialViewParameters": {
+				"yaw": 0,
+				"pitch": 0,
+				"fov": 1.4
+			},
+			"linkHotspots": [],
+			"videoOverlay": null,
+			"infoHotspots": [],
+			"neighborhood": [
+				{
+					"yaw": -1.4707828028005725,
+					"target": "10-r0010095"
+				},
+				{
+					"yaw": 1.6372920442025771,
+					"target": "8-r0010093"
+				}
+			]
+		},
+		{
+			"id": "10-r0010095",
+			"label": "",
+			"folder": "data/10-r0010095/",
+			"levels": [
+				{
+					"tileSize": 256,
+					"size": 256,
+					"fallbackOnly": true
+				},
+				{
+					"tileSize": 512,
+					"size": 512
+				},
+				{
+					"tileSize": 512,
+					"size": 1024
+				},
+				{
+					"tileSize": 512,
+					"size": 2048
+				}
+			],
+			"faceSize": 3000,
+			"initialViewParameters": {
+				"yaw": 0,
+				"pitch": 0,
+				"fov": 1.4
+			},
+			"linkHotspots": [],
+			"videoOverlay": null,
+			"infoHotspots": [
+				{
+					"title": {
+						"sk": "Emergency stop",
+						"en": "Emergency stop"
+					},
+					"text": {
+						"sk": "dsfgsdfgsdfg",
+						"en": "sdfgsdfgsdfg"
+					},
+					"icon": "fa-info",
+					"map": {
+						"left": "21.57%",
+						"top": "44.9%"
+					},
+					"yaw": -1.8225495743555484,
+					"pitch": 0.05225718422367187,
+					"internalId": 2
+				}
+			],
+			"neighborhood": [
+				{
+					"yaw": -1.1831791175576338,
+					"target": "24-r0010109"
+				},
+				{
+					"yaw": 1.7998533544601258,
+					"target": "9-r0010094"
+				},
+				{
+					"yaw": 3.108503290513875,
+					"target": "11-r0010096"
+				}
+			]
+		},
+		{
+			"id": "11-r0010096",
+			"label": "",
+			"folder": "data/11-r0010096/",
+			"levels": [
+				{
+					"tileSize": 256,
+					"size": 256,
+					"fallbackOnly": true
+				},
+				{
+					"tileSize": 512,
+					"size": 512
+				},
+				{
+					"tileSize": 512,
+					"size": 1024
+				},
+				{
+					"tileSize": 512,
+					"size": 2048
+				}
+			],
+			"faceSize": 3000,
+			"initialViewParameters": {
+				"yaw": 0,
+				"pitch": 0,
+				"fov": 1.4
+			},
+			"linkHotspots": [],
+			"videoOverlay": null,
+			"infoHotspots": [],
+			"neighborhood": [
+				{
+					"yaw": 0.009722745755208706,
+					"target": "10-r0010095"
+				},
+				{
+					"yaw": -1.512685634164658,
+					"target": "12-r0010097"
+				},
+				{
+					"yaw": 1.98184769181033,
+					"target": "13-r0010098"
+				}
+			]
+		},
+		{
+			"id": "12-r0010097",
+			"label": "",
+			"folder": "data/12-r0010097/",
+			"levels": [
+				{
+					"tileSize": 256,
+					"size": 256,
+					"fallbackOnly": true
+				},
+				{
+					"tileSize": 512,
+					"size": 512
+				},
+				{
+					"tileSize": 512,
+					"size": 1024
+				},
+				{
+					"tileSize": 512,
+					"size": 2048
+				}
+			],
+			"faceSize": 3000,
+			"initialViewParameters": {
+				"yaw": 0,
+				"pitch": 0,
+				"fov": 1.4
+			},
+			"linkHotspots": [],
+			"videoOverlay": null,
+			"infoHotspots": [],
+			"neighborhood": [
+				{
+					"yaw": 1.5997865775080733,
+					"target": "11-r0010096"
+				},
+				{
+					"yaw": -2.5162650491390206,
+					"target": "18-r0010103"
+				}
+			]
+		},
+		{
+			"id": "13-r0010098",
+			"label": "",
+			"folder": "data/13-r0010098/",
+			"levels": [
+				{
+					"tileSize": 256,
+					"size": 256,
+					"fallbackOnly": true
+				},
+				{
+					"tileSize": 512,
+					"size": 512
+				},
+				{
+					"tileSize": 512,
+					"size": 1024
+				},
+				{
+					"tileSize": 512,
+					"size": 2048
+				}
+			],
+			"faceSize": 3000,
+			"initialViewParameters": {
+				"yaw": 0,
+				"pitch": 0,
+				"fov": 1.4
+			},
+			"linkHotspots": [],
+			"videoOverlay": null,
+			"infoHotspots": [],
+			"neighborhood": [
+				{
+					"yaw": -1.048744093850983,
+					"target": "11-r0010096"
+				},
+				{
+					"yaw": -1.5891486595344944,
+					"target": "14-r0010099"
+				},
+				{
+					"yaw": -2.7688165309115416,
+					"target": "6-r0010091"
+				},
+				{
+					"yaw": 0.36053901928554843,
+					"target": "5-r0010090"
+				}
+			]
+		},
+		{
+			"id": "14-r0010099",
+			"label": "",
+			"folder": "data/14-r0010099/",
+			"levels": [
+				{
+					"tileSize": 256,
+					"size": 256,
+					"fallbackOnly": true
+				},
+				{
+					"tileSize": 512,
+					"size": 512
+				},
+				{
+					"tileSize": 512,
+					"size": 1024
+				},
+				{
+					"tileSize": 512,
+					"size": 2048
+				}
+			],
+			"faceSize": 3000,
+			"initialViewParameters": {
+				"yaw": 0,
+				"pitch": 0,
+				"fov": 1.4
+			},
+			"linkHotspots": [],
+			"videoOverlay": null,
+			"infoHotspots": [],
+			"neighborhood": [
+				{
+					"yaw": -1.559795653897023,
+					"target": "15-r0010100"
+				},
+				{
+					"yaw": 1.5689470881979686,
+					"target": "13-r0010098"
+				}
+			]
+		},
+		{
+			"id": "15-r0010100",
+			"label": "",
+			"folder": "data/15-r0010100/",
+			"levels": [
+				{
+					"tileSize": 256,
+					"size": 256,
+					"fallbackOnly": true
+				},
+				{
+					"tileSize": 512,
+					"size": 512
+				},
+				{
+					"tileSize": 512,
+					"size": 1024
+				},
+				{
+					"tileSize": 512,
+					"size": 2048
+				}
+			],
+			"faceSize": 3000,
+			"initialViewParameters": {
+				"yaw": 0,
+				"pitch": 0,
+				"fov": 1.4
+			},
+			"linkHotspots": [],
+			"videoOverlay": null,
+			"infoHotspots": [],
+			"neighborhood": [
+				{
+					"yaw": -1.5336127300711535,
+					"target": "16-r0010101"
+				},
+				{
+					"yaw": 1.6323892529537192,
+					"target": "14-r0010099"
+				}
+			]
+		},
+		{
+			"id": "16-r0010101",
+			"label": "",
+			"folder": "data/16-r0010101/",
+			"levels": [
+				{
+					"tileSize": 256,
+					"size": 256,
+					"fallbackOnly": true
+				},
+				{
+					"tileSize": 512,
+					"size": 512
+				},
+				{
+					"tileSize": 512,
+					"size": 1024
+				},
+				{
+					"tileSize": 512,
+					"size": 2048
+				}
+			],
+			"faceSize": 3000,
+			"initialViewParameters": {
+				"yaw": 0,
+				"pitch": 0,
+				"fov": 1.4
+			},
+			"linkHotspots": [],
+			"videoOverlay": null,
+			"infoHotspots": [],
+			"neighborhood": [
+				{
+					"yaw": 1.669042371373859,
+					"target": "15-r0010100"
+				},
+				{
+					"yaw": -1.4827281104431975,
+					"target": "17-r0010102"
+				},
+				{
+					"yaw": -0.7083799748044477,
+					"target": "18-r0010103"
+				}
+			]
+		},
+		{
+			"id": "17-r0010102",
+			"label": "",
+			"folder": "data/17-r0010102/",
+			"levels": [
+				{
+					"tileSize": 256,
+					"size": 256,
+					"fallbackOnly": true
+				},
+				{
+					"tileSize": 512,
+					"size": 512
+				},
+				{
+					"tileSize": 512,
+					"size": 1024
+				},
+				{
+					"tileSize": 512,
+					"size": 2048
+				}
+			],
+			"faceSize": 3000,
+			"initialViewParameters": {
+				"yaw": 0,
+				"pitch": 0,
+				"fov": 1.4
+			},
+			"linkHotspots": [],
+			"videoOverlay": null,
+			"infoHotspots": [],
+			"neighborhood": [
+				{
+					"yaw": 1.6508271508258563,
+					"target": "16-r0010101"
+				},
+				{
+					"yaw": 0.015375958531066658,
+					"target": "18-r0010103"
+				},
+				{
+					"yaw": -1.5250776962531756,
+					"target": "20-r0010105"
+				}
+			]
+		},
+		{
+			"id": "18-r0010103",
+			"label": "",
+			"folder": "data/18-r0010103/",
+			"levels": [
+				{
+					"tileSize": 256,
+					"size": 256,
+					"fallbackOnly": true
+				},
+				{
+					"tileSize": 512,
+					"size": 512
+				},
+				{
+					"tileSize": 512,
+					"size": 1024
+				},
+				{
+					"tileSize": 512,
+					"size": 2048
+				}
+			],
+			"faceSize": 3000,
+			"initialViewParameters": {
+				"yaw": 0,
+				"pitch": 0,
+				"fov": 1.4
+			},
+			"linkHotspots": [],
+			"videoOverlay": null,
+			"infoHotspots": [],
+			"neighborhood": [
+				{
+					"yaw": -2.944040665568812,
+					"target": "17-r0010102"
+				},
+				{
+					"yaw": 0.8463524420547515,
+					"target": "12-r0010097"
+				},
+				{
+					"yaw": -1.4010210030840415,
+					"target": "19-r0010104"
+				},
+				{
+					"yaw": 2.2708007007558075,
+					"target": "16-r0010101"
+				}
+			]
+		},
+		{
+			"id": "19-r0010104",
+			"label": "",
+			"folder": "data/19-r0010104/",
+			"levels": [
+				{
+					"tileSize": 256,
+					"size": 256,
+					"fallbackOnly": true
+				},
+				{
+					"tileSize": 512,
+					"size": 512
+				},
+				{
+					"tileSize": 512,
+					"size": 1024
+				},
+				{
+					"tileSize": 512,
+					"size": 2048
+				}
+			],
+			"faceSize": 3000,
+			"initialViewParameters": {
+				"yaw": 0,
+				"pitch": 0,
+				"fov": 1.4
+			},
+			"linkHotspots": [],
+			"videoOverlay": null,
+			"infoHotspots": [],
+			"neighborhood": [
+				{
+					"yaw": 1.6745191251814742,
+					"target": "18-r0010103"
+				},
+				{
+					"yaw": -2.1507859187590928,
+					"target": "20-r0010105"
+				},
+				{
+					"yaw": -0.30155573984216666,
+					"target": "21-r0010106"
+				}
+			]
+		},
+		{
+			"id": "20-r0010105",
+			"label": "",
+			"folder": "data/20-r0010105/",
+			"levels": [
+				{
+					"tileSize": 256,
+					"size": 256,
+					"fallbackOnly": true
+				},
+				{
+					"tileSize": 512,
+					"size": 512
+				},
+				{
+					"tileSize": 512,
+					"size": 1024
+				},
+				{
+					"tileSize": 512,
+					"size": 2048
+				}
+			],
+			"faceSize": 3000,
+			"initialViewParameters": {
+				"yaw": 0,
+				"pitch": 0,
+				"fov": 1.4
+			},
+			"linkHotspots": [],
+			"videoOverlay": null,
+			"infoHotspots": [],
+			"neighborhood": [
+				{
+					"yaw": 1.5567249968966843,
+					"target": "17-r0010102"
+				},
+				{
+					"yaw": 1.0207235104964454,
+					"target": "19-r0010104"
+				}
+			]
+		},
+		{
+			"id": "21-r0010106",
+			"label": "",
+			"folder": "data/21-r0010106/",
+			"levels": [
+				{
+					"tileSize": 256,
+					"size": 256,
+					"fallbackOnly": true
+				},
+				{
+					"tileSize": 512,
+					"size": 512
+				},
+				{
+					"tileSize": 512,
+					"size": 1024
+				},
+				{
+					"tileSize": 512,
+					"size": 2048
+				}
+			],
+			"faceSize": 3000,
+			"initialViewParameters": {
+				"yaw": 0,
+				"pitch": 0,
+				"fov": 1.4
+			},
+			"linkHotspots": [],
+			"videoOverlay": null,
+			"infoHotspots": [],
+			"neighborhood": [
+				{
+					"yaw": -2.9905110603363276,
+					"target": "19-r0010104"
+				},
+				{
+					"yaw": -0.05433946963045422,
+					"target": "22-r0010107"
+				}
+			]
+		},
+		{
+			"id": "22-r0010107",
+			"label": "",
+			"folder": "data/22-r0010107/",
+			"levels": [
+				{
+					"tileSize": 256,
+					"size": 256,
+					"fallbackOnly": true
+				},
+				{
+					"tileSize": 512,
+					"size": 512
+				},
+				{
+					"tileSize": 512,
+					"size": 1024
+				},
+				{
+					"tileSize": 512,
+					"size": 2048
+				}
+			],
+			"faceSize": 3000,
+			"initialViewParameters": {
+				"yaw": 0,
+				"pitch": 0,
+				"fov": 1.4
+			},
+			"linkHotspots": [],
+			"videoOverlay": null,
+			"infoHotspots": [],
+			"neighborhood": [
+				{
+					"yaw": 3.093682321403902,
+					"target": "21-r0010106"
+				},
+				{
+					"yaw": 1.5922640426427632,
+					"target": "23-r0010108"
+				}
+			]
+		},
+		{
+			"id": "23-r0010108",
+			"label": "",
+			"folder": "data/23-r0010108/",
+			"levels": [
+				{
+					"tileSize": 256,
+					"size": 256,
+					"fallbackOnly": true
+				},
+				{
+					"tileSize": 512,
+					"size": 512
+				},
+				{
+					"tileSize": 512,
+					"size": 1024
+				},
+				{
+					"tileSize": 512,
+					"size": 2048
+				}
+			],
+			"faceSize": 3000,
+			"initialViewParameters": {
+				"yaw": 0,
+				"pitch": 0,
+				"fov": 1.4
+			},
+			"linkHotspots": [],
+			"videoOverlay": null,
+			"infoHotspots": [],
+			"neighborhood": [
+				{
+					"yaw": -1.4938832934858546,
+					"target": "22-r0010107"
+				},
+				{
+					"yaw": 1.5252069290927812,
+					"target": "24-r0010109"
+				}
+			]
+		},
+		{
+			"id": "24-r0010109",
+			"label": "",
+			"folder": "data/24-r0010109/",
+			"levels": [
+				{
+					"tileSize": 256,
+					"size": 256,
+					"fallbackOnly": true
+				},
+				{
+					"tileSize": 512,
+					"size": 512
+				},
+				{
+					"tileSize": 512,
+					"size": 1024
+				},
+				{
+					"tileSize": 512,
+					"size": 2048
+				}
+			],
+			"faceSize": 3000,
+			"initialViewParameters": {
+				"yaw": 0,
+				"pitch": 0,
+				"fov": 1.4
+			},
+			"linkHotspots": [],
+			"videoOverlay": null,
+			"infoHotspots": [],
+			"neighborhood": [
+				{
+					"yaw": -1.4042541577162222,
+					"target": "23-r0010108"
+				},
+				{
+					"yaw": 1.4854955313745206,
+					"target": "10-r0010095"
+				}
+			]
+		},
+		{
+			"id": "25-r0010110",
+			"label": "",
+			"folder": "data/25-r0010110/",
+			"levels": [
+				{
+					"tileSize": 256,
+					"size": 256,
+					"fallbackOnly": true
+				},
+				{
+					"tileSize": 512,
+					"size": 512
+				},
+				{
+					"tileSize": 512,
+					"size": 1024
+				},
+				{
+					"tileSize": 512,
+					"size": 2048
+				}
+			],
+			"faceSize": 3000,
+			"initialViewParameters": {
+				"yaw": 0,
+				"pitch": 0,
+				"fov": 1.4
+			},
+			"linkHotspots": [],
+			"videoOverlay": null,
+			"infoHotspots": [],
+			"neighborhood": [
+				{
+					"yaw": -0.31257088801033817,
+					"target": "26-r0010111"
+				},
+				{
+					"yaw": -3.136384859075603,
+					"target": "6-r0010091"
+				},
+				{
+					"yaw": 2.915342239199237,
+					"target": "6-r0010091"
+				}
+			]
+		},
+		{
+			"id": "26-r0010111",
+			"label": "",
+			"folder": "data/26-r0010111/",
+			"levels": [
+				{
+					"tileSize": 256,
+					"size": 256,
+					"fallbackOnly": true
+				},
+				{
+					"tileSize": 512,
+					"size": 512
+				},
+				{
+					"tileSize": 512,
+					"size": 1024
+				},
+				{
+					"tileSize": 512,
+					"size": 2048
+				}
+			],
+			"faceSize": 3000,
+			"initialViewParameters": {
+				"yaw": 0,
+				"pitch": 0,
+				"fov": 1.4
+			},
+			"linkHotspots": [],
+			"videoOverlay": null,
+			"infoHotspots": [],
+			"neighborhood": [
+				{
+					"yaw": 2.923352168584083,
+					"target": "25-r0010110"
+				}
+			]
+		}
+	],
+	"map": {
+		"image": "data/plan.png"
+	},
+	"langs": [
+		"sk",
+		"en"
+	]
+}

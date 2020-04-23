@@ -1,0 +1,25 @@
+{
+	"id": 3,
+	"data": [
+		{
+			"label": "Tréning",
+			"items": [
+				{
+					"type": "virtual-training",
+					"label": "Tréning ABCD",
+					"training": "https://lacreon.github.io/WebVR/Vipo/Rubberizing_Die_Change/training_rubberizingdiechange"
+				}
+			]
+		},
+		{
+			"label": "Inštruktážne videá",
+			"items": [
+        {
+          "type": "video",
+          "label": "Inštruktážne video ABCD",
+          "videoFile": "https://lacreon.github.io/WebVR/Vipo/video/RubberizingdiechangeOptim.m4v"
+        }
+			]
+		}
+	]
+}

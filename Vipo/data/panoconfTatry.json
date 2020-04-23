@@ -1,0 +1,7 @@
+{
+  "panoPathRoot": "http://localhost/Vipo/panorama/",
+  "iconsFile": "http://localhost/ceit/assets/img/mpano/pano-icons.svg",
+  "infoUrl": "http://localhost/Vipo/poi-info.php",
+  "panoDataUrl": "http://localhost/Vipo/data/mpanodataTatry.json",
+  "lng": "sk"
+}

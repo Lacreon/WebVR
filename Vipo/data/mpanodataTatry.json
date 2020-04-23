@@ -1,0 +1,759 @@
+{
+	"scenes": [
+		{
+			"id": "0-r0010013",
+			"folder": "data/0-r0010013/",
+			"levels": [
+				{
+					"tileSize": 256,
+					"size": 256,
+					"fallbackOnly": true
+				},
+				{
+					"tileSize": 512,
+					"size": 512
+				},
+				{
+					"tileSize": 512,
+					"size": 1024
+				},
+				{
+					"tileSize": 512,
+					"size": 2048
+				}
+			],
+			"faceSize": 1680,
+			"initialViewParameters": {
+				"yaw": 2.7920077684781575,
+				"pitch": -0.11696323068481007,
+				"fov": 1.3487598040662003
+			},
+			"linkHotspots": [],
+			"videoOverlay": null,
+			"infoHotspots": [],
+			"neighborhood": [
+				{
+					"yaw": 2.9775905414925106,
+					"target": "1-r0010015"
+				}
+			]
+		},
+		{
+			"id": "1-r0010015",
+			"folder": "data/1-r0010015/",
+			"levels": [
+				{
+					"tileSize": 256,
+					"size": 256,
+					"fallbackOnly": true
+				},
+				{
+					"tileSize": 512,
+					"size": 512
+				},
+				{
+					"tileSize": 512,
+					"size": 1024
+				},
+				{
+					"tileSize": 512,
+					"size": 2048
+				}
+			],
+			"faceSize": 1680,
+			"initialViewParameters": {
+				"yaw": 1.3963589595596222,
+				"pitch": -0.02275461886183372,
+				"fov": 1.3487598040662003
+			},
+			"linkHotspots": [],
+			"videoOverlay": null,
+			"infoHotspots": [],
+			"neighborhood": [
+				{
+					"yaw": -0.9988793029725986,
+					"target": "0-r0010013"
+				},
+				{
+					"yaw": 1.0500507281957816,
+					"target": "2-r0010016"
+				}
+			]
+		},
+		{
+			"id": "2-r0010016",
+			"folder": "data/2-r0010016/",
+			"levels": [
+				{
+					"tileSize": 256,
+					"size": 256,
+					"fallbackOnly": true
+				},
+				{
+					"tileSize": 512,
+					"size": 512
+				},
+				{
+					"tileSize": 512,
+					"size": 1024
+				},
+				{
+					"tileSize": 512,
+					"size": 2048
+				}
+			],
+			"faceSize": 1680,
+			"initialViewParameters": {
+				"yaw": 0.22257570561146522,
+				"pitch": -0.20842271040069704,
+				"fov": 1.3487598040662003
+			},
+			"linkHotspots": [],
+			"videoOverlay": null,
+			"infoHotspots": [],
+			"neighborhood": [
+				{
+					"yaw": -2.2076526059438937,
+					"target": "1-r0010015"
+				},
+				{
+					"yaw": 0.35952497074559453,
+					"target": "3-r0010017"
+				}
+			]
+		},
+		{
+			"id": "3-r0010017",
+			"folder": "data/3-r0010017/",
+			"levels": [
+				{
+					"tileSize": 256,
+					"size": 256,
+					"fallbackOnly": true
+				},
+				{
+					"tileSize": 512,
+					"size": 512
+				},
+				{
+					"tileSize": 512,
+					"size": 1024
+				},
+				{
+					"tileSize": 512,
+					"size": 2048
+				}
+			],
+			"faceSize": 1680,
+			"initialViewParameters": {
+				"yaw": 1.6859513177284295,
+				"pitch": 0.15420898802586436,
+				"fov": 1.3487598040662003
+			},
+			"linkHotspots": [],
+			"videoOverlay": null,
+			"infoHotspots": [],
+			"neighborhood": [
+				{
+					"yaw": 1.8322927383776486,
+					"target": "4-r0010018"
+				},
+				{
+					"yaw": -1.5615085761419287,
+					"target": "2-r0010016"
+				}
+			]
+		},
+		{
+			"id": "4-r0010018",
+			"folder": "data/4-r0010018/",
+			"levels": [
+				{
+					"tileSize": 256,
+					"size": 256,
+					"fallbackOnly": true
+				},
+				{
+					"tileSize": 512,
+					"size": 512
+				},
+				{
+					"tileSize": 512,
+					"size": 1024
+				},
+				{
+					"tileSize": 512,
+					"size": 2048
+				}
+			],
+			"faceSize": 1680,
+			"initialViewParameters": {
+				"yaw": 1.8575801980834452,
+				"pitch": 0.020606052562119004,
+				"fov": 1.3487598040662003
+			},
+			"linkHotspots": [],
+			"videoOverlay": null,
+			"infoHotspots": [],
+			"neighborhood": [
+				{
+					"yaw": 1.8069571265002882,
+					"target": "5-r0010019"
+				},
+				{
+					"yaw": -1.3144059973524005,
+					"target": "3-r0010017"
+				}
+			]
+		},
+		{
+			"id": "5-r0010019",
+			"folder": "data/5-r0010019/",
+			"levels": [
+				{
+					"tileSize": 256,
+					"size": 256,
+					"fallbackOnly": true
+				},
+				{
+					"tileSize": 512,
+					"size": 512
+				},
+				{
+					"tileSize": 512,
+					"size": 1024
+				},
+				{
+					"tileSize": 512,
+					"size": 2048
+				}
+			],
+			"faceSize": 1680,
+			"initialViewParameters": {
+				"yaw": -2.964683737210626,
+				"pitch": 0.005619832516934764,
+				"fov": 1.3487598040662003
+			},
+			"linkHotspots": [],
+			"videoOverlay": null,
+			"infoHotspots": [],
+			"neighborhood": [
+				{
+					"yaw": -3.004201389207049,
+					"target": "6-r0010020"
+				},
+				{
+					"yaw": 0.19782566216074216,
+					"target": "4-r0010018"
+				}
+			]
+		},
+		{
+			"id": "6-r0010020",
+			"folder": "data/6-r0010020/",
+			"levels": [
+				{
+					"tileSize": 256,
+					"size": 256,
+					"fallbackOnly": true
+				},
+				{
+					"tileSize": 512,
+					"size": 512
+				},
+				{
+					"tileSize": 512,
+					"size": 1024
+				},
+				{
+					"tileSize": 512,
+					"size": 2048
+				}
+			],
+			"faceSize": 1680,
+			"initialViewParameters": {
+				"yaw": 2.1498077554468065,
+				"pitch": 0.175168117454799,
+				"fov": 1.3487598040662003
+			},
+			"linkHotspots": [],
+			"videoOverlay": null,
+			"infoHotspots": [],
+			"neighborhood": [
+				{
+					"yaw": 2.117573046156357,
+					"target": "7-r0010021"
+				},
+				{
+					"yaw": -1.1712520738536725,
+					"target": "5-r0010019"
+				}
+			]
+		},
+		{
+			"id": "7-r0010021",
+			"folder": "data/7-r0010021/",
+			"levels": [
+				{
+					"tileSize": 256,
+					"size": 256,
+					"fallbackOnly": true
+				},
+				{
+					"tileSize": 512,
+					"size": 512
+				},
+				{
+					"tileSize": 512,
+					"size": 1024
+				},
+				{
+					"tileSize": 512,
+					"size": 2048
+				}
+			],
+			"faceSize": 1680,
+			"initialViewParameters": {
+				"yaw": 1.630862644129623,
+				"pitch": -0.0015098186781976608,
+				"fov": 1.3487598040662003
+			},
+			"linkHotspots": [],
+			"videoOverlay": null,
+			"infoHotspots": [],
+			"neighborhood": [
+				{
+					"yaw": 1.594488036286025,
+					"target": "8-r0010022"
+				},
+				{
+					"yaw": -1.5511813248634354,
+					"target": "6-r0010020"
+				}
+			]
+		},
+		{
+			"id": "8-r0010022",
+			"folder": "data/8-r0010022/",
+			"levels": [
+				{
+					"tileSize": 256,
+					"size": 256,
+					"fallbackOnly": true
+				},
+				{
+					"tileSize": 512,
+					"size": 512
+				},
+				{
+					"tileSize": 512,
+					"size": 1024
+				},
+				{
+					"tileSize": 512,
+					"size": 2048
+				}
+			],
+			"faceSize": 1680,
+			"initialViewParameters": {
+				"yaw": 3.0068614017421282,
+				"pitch": 0.02353955663398466,
+				"fov": 0.8097835725701668
+			},
+			"linkHotspots": [],
+			"videoOverlay": null,
+			"infoHotspots": [],
+			"neighborhood": [
+				{
+					"yaw": 2.9322527704820835,
+					"target": "9-r0010023"
+				},
+				{
+					"yaw": -0.24216573007610975,
+					"target": "7-r0010021"
+				}
+			]
+		},
+		{
+			"id": "9-r0010023",
+			"folder": "data/9-r0010023/",
+			"levels": [
+				{
+					"tileSize": 256,
+					"size": 256,
+					"fallbackOnly": true
+				},
+				{
+					"tileSize": 512,
+					"size": 512
+				},
+				{
+					"tileSize": 512,
+					"size": 1024
+				},
+				{
+					"tileSize": 512,
+					"size": 2048
+				}
+			],
+			"faceSize": 1680,
+			"initialViewParameters": {
+				"yaw": -1.6395564363640567,
+				"pitch": 0.1883653684090909,
+				"fov": 1.3487598040662003
+			},
+			"linkHotspots": [],
+			"videoOverlay": null,
+			"infoHotspots": [],
+			"neighborhood": [
+				{
+					"yaw": -1.6622693344497677,
+					"target": "10-r0010024"
+				},
+				{
+					"yaw": -2.7147502408898916,
+					"target": "8-r0010022"
+				}
+			]
+		},
+		{
+			"id": "10-r0010024",
+			"folder": "data/10-r0010024/",
+			"levels": [
+				{
+					"tileSize": 256,
+					"size": 256,
+					"fallbackOnly": true
+				},
+				{
+					"tileSize": 512,
+					"size": 512
+				},
+				{
+					"tileSize": 512,
+					"size": 1024
+				},
+				{
+					"tileSize": 512,
+					"size": 2048
+				}
+			],
+			"faceSize": 1680,
+			"initialViewParameters": {
+				"yaw": -1.08391155426221,
+				"pitch": 0.30441373406744887,
+				"fov": 1.3487598040662003
+			},
+			"linkHotspots": [],
+			"videoOverlay": null,
+			"infoHotspots": [],
+			"neighborhood": [
+				{
+					"yaw": -1.0607953166556285,
+					"target": "11-r0010026"
+				},
+				{
+					"yaw": 2.3362126840586424,
+					"target": "9-r0010023"
+				}
+			]
+		},
+		{
+			"id": "11-r0010026",
+			"folder": "data/11-r0010026/",
+			"levels": [
+				{
+					"tileSize": 256,
+					"size": 256,
+					"fallbackOnly": true
+				},
+				{
+					"tileSize": 512,
+					"size": 512
+				},
+				{
+					"tileSize": 512,
+					"size": 1024
+				},
+				{
+					"tileSize": 512,
+					"size": 2048
+				}
+			],
+			"faceSize": 1680,
+			"initialViewParameters": {
+				"yaw": -1.2991149241968643,
+				"pitch": 0.06000983434116769,
+				"fov": 1.3487598040662003
+			},
+			"linkHotspots": [],
+			"videoOverlay": null,
+			"infoHotspots": [],
+			"neighborhood": [
+				{
+					"yaw": -1.023388740836534,
+					"target": "12-r0010025"
+				},
+				{
+					"yaw": 2.091928289807063,
+					"target": "10-r0010024"
+				}
+			]
+		},
+		{
+			"id": "12-r0010025",
+			"folder": "data/12-r0010025/",
+			"levels": [
+				{
+					"tileSize": 256,
+					"size": 256,
+					"fallbackOnly": true
+				},
+				{
+					"tileSize": 512,
+					"size": 512
+				},
+				{
+					"tileSize": 512,
+					"size": 1024
+				},
+				{
+					"tileSize": 512,
+					"size": 2048
+				}
+			],
+			"faceSize": 1680,
+			"initialViewParameters": {
+				"yaw": 1.350695303025292,
+				"pitch": 0.16561977005811812,
+				"fov": 1.3487598040662003
+			},
+			"linkHotspots": [],
+			"videoOverlay": null,
+			"infoHotspots": [],
+			"neighborhood": [
+				{
+					"yaw": 1.554671559937141,
+					"target": "13-r0010027"
+				},
+				{
+					"yaw": -0.9708181019669571,
+					"target": "11-r0010026"
+				}
+			]
+		},
+		{
+			"id": "13-r0010027",
+			"folder": "data/13-r0010027/",
+			"levels": [
+				{
+					"tileSize": 256,
+					"size": 256,
+					"fallbackOnly": true
+				},
+				{
+					"tileSize": 512,
+					"size": 512
+				},
+				{
+					"tileSize": 512,
+					"size": 1024
+				},
+				{
+					"tileSize": 512,
+					"size": 2048
+				}
+			],
+			"faceSize": 1680,
+			"initialViewParameters": {
+				"yaw": -0.9575354587328988,
+				"pitch": 0.18893517803051196,
+				"fov": 1.3487598040662003
+			},
+			"linkHotspots": [],
+			"videoOverlay": null,
+			"infoHotspots": [],
+			"neighborhood": [
+				{
+					"yaw": -1.0210980646952166,
+					"target": "14-r0010028"
+				},
+				{
+					"yaw": 2.2321625519718324,
+					"target": "12-r0010025"
+				}
+			]
+		},
+		{
+			"id": "14-r0010028",
+			"folder": "data/14-r0010028/",
+			"levels": [
+				{
+					"tileSize": 256,
+					"size": 256,
+					"fallbackOnly": true
+				},
+				{
+					"tileSize": 512,
+					"size": 512
+				},
+				{
+					"tileSize": 512,
+					"size": 1024
+				},
+				{
+					"tileSize": 512,
+					"size": 2048
+				}
+			],
+			"faceSize": 1680,
+			"initialViewParameters": {
+				"yaw": 0.7078582227897527,
+				"pitch": 0.14036437108851274,
+				"fov": 1.3487598040662003
+			},
+			"linkHotspots": [],
+			"videoOverlay": null,
+			"infoHotspots": [],
+			"neighborhood": [
+				{
+					"yaw": 0.7136107675563448,
+					"target": "15-r0010029"
+				},
+				{
+					"yaw": -2.893275091523302,
+					"target": "13-r0010027"
+				}
+			]
+		},
+		{
+			"id": "15-r0010029",
+			"folder": "data/15-r0010029/",
+			"levels": [
+				{
+					"tileSize": 256,
+					"size": 256,
+					"fallbackOnly": true
+				},
+				{
+					"tileSize": 512,
+					"size": 512
+				},
+				{
+					"tileSize": 512,
+					"size": 1024
+				},
+				{
+					"tileSize": 512,
+					"size": 2048
+				}
+			],
+			"faceSize": 1680,
+			"initialViewParameters": {
+				"yaw": -2.751557233748949,
+				"pitch": 0.1267710238748485,
+				"fov": 0.9299463008891624
+			},
+			"linkHotspots": [],
+			"videoOverlay": null,
+			"infoHotspots": [],
+			"neighborhood": [
+				{
+					"yaw": -2.7546242849736604,
+					"target": "16-r0010030"
+				},
+				{
+					"yaw": 0.5361852560823674,
+					"target": "14-r0010028"
+				}
+			]
+		},
+		{
+			"id": "16-r0010030",
+			"folder": "data/16-r0010030/",
+			"levels": [
+				{
+					"tileSize": 256,
+					"size": 256,
+					"fallbackOnly": true
+				},
+				{
+					"tileSize": 512,
+					"size": 512
+				},
+				{
+					"tileSize": 512,
+					"size": 1024
+				},
+				{
+					"tileSize": 512,
+					"size": 2048
+				}
+			],
+			"faceSize": 1680,
+			"initialViewParameters": {
+				"yaw": -2.9546058129160215,
+				"pitch": 0.11788127861627018,
+				"fov": 1.122889918120795
+			},
+			"linkHotspots": [],
+			"videoOverlay": null,
+			"infoHotspots": [],
+			"neighborhood": [
+				{
+					"yaw": -3.0128643052436246,
+					"target": "17-r0010031"
+				},
+				{
+					"yaw": 1.436289912817026,
+					"target": "15-r0010029"
+				}
+			]
+		},
+		{
+			"id": "17-r0010031",
+			"folder": "data/17-r0010031/",
+			"levels": [
+				{
+					"tileSize": 256,
+					"size": 256,
+					"fallbackOnly": true
+				},
+				{
+					"tileSize": 512,
+					"size": 512
+				},
+				{
+					"tileSize": 512,
+					"size": 1024
+				},
+				{
+					"tileSize": 512,
+					"size": 2048
+				}
+			],
+			"faceSize": 1680,
+			"initialViewParameters": {
+				"yaw": -0.27014973105521634,
+				"pitch": -0.1302804560087516,
+				"fov": 1.3487598040662003
+			},
+			"linkHotspots": [],
+			"videoOverlay": null,
+			"infoHotspots": [],
+			"neighborhood": [
+				{
+					"yaw": 2.6478644317822635,
+					"target": "16-r0010030"
+				}
+			]
+		}
+	],
+	"map": {
+		"image": "data/plan.png"
+	},
+	"langs": [
+		"sk",
+		"en"
+	]
+}

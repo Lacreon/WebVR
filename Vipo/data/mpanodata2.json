@@ -1,0 +1,93 @@
+{
+	"scenes": [
+		{
+			"id": "0-r0010085",
+			"label": "",
+			"folder": "data/0-r0010085/",
+			"levels": [
+				{
+					"tileSize": 256,
+					"size": 256,
+					"fallbackOnly": true
+				},
+				{
+					"tileSize": 512,
+					"size": 512
+				},
+				{
+					"tileSize": 512,
+					"size": 1024
+				},
+				{
+					"tileSize": 512,
+					"size": 2048
+				}
+			],
+			"faceSize": 3000,
+			"initialViewParameters": {
+				"yaw": 0,
+				"pitch": 0,
+				"fov": 1.4
+			},
+			"linkHotspots": [],
+			"videoOverlay": null,
+			"infoHotspots": [],
+			"neighborhood": [
+				{
+					"yaw": -1.5027488461570933,
+					"target": "1-r0010086"
+				}
+			]
+		},
+		{
+			"id": "1-r0010086",
+			"label": "",
+			"folder": "data/1-r0010086/",
+			"levels": [
+				{
+					"tileSize": 256,
+					"size": 256,
+					"fallbackOnly": true
+				},
+				{
+					"tileSize": 512,
+					"size": 512
+				},
+				{
+					"tileSize": 512,
+					"size": 1024
+				},
+				{
+					"tileSize": 512,
+					"size": 2048
+				}
+			],
+			"faceSize": 3000,
+			"initialViewParameters": {
+				"yaw": 0,
+				"pitch": 0,
+				"fov": 1.4
+			},
+			"linkHotspots": [],
+			"videoOverlay": null,
+			"infoHotspots": [],
+			"neighborhood": [
+				{
+					"yaw": -1.4777809645870619,
+					"target": "2-r0010087"
+				},
+				{
+					"yaw": 1.6139762285221595,
+					"target": "0-r0010085"
+				}
+			]
+		}
+	],
+	"map": {
+		"image": "data/plan.png"
+	},
+	"langs": [
+		"sk",
+		"en"
+	]
+}
